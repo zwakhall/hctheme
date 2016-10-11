@@ -225,7 +225,7 @@ Highcharts.theme = {
 	exporting: {
         buttons: {
             contextButton: {
-				symbol: 'url(images/download.png)',
+				symbol: 'url(download.png)',
 				verticalAlign: 'bottom',
 				y: 10,
 				symbolX: 19,
@@ -253,7 +253,7 @@ Highcharts.theme = {
 				}]
             },
 			printButton: {
-                symbol: 'url(images/printer.png)',
+                symbol: 'url(printer.png)',
 				verticalAlign: 'bottom',
 				x: -40,
 				y: 10,
